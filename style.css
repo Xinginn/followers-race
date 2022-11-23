@@ -8,14 +8,21 @@ body {
 }
 
 h1 {
-  display: block;
-}
-
-h2 {
-  display: block;
+  font-size: 4em;
 }
 
 .container {
   width: 90%;
   margin: auto;
+}
+
+
+
+a {
+  text-decoration: none;
+  color: blue;
+}
+a:visited {
+  text-decoration: none;
+  color: blue;
 }
