@@ -2,6 +2,19 @@ body {
   background-color:antiquewhite;
 }
 
+.head {
+  display: flex;
+  justify-content: center;
+}
+
+h1 {
+  display: block;
+}
+
+h2 {
+  display: block;
+}
+
 .container {
   width: 90%;
   margin: auto;
