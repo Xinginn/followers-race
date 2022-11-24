@@ -3,19 +3,16 @@ body {
 }
 
 .head {
+  width: 100%;
   display: flex;
   justify-content: center;
-}
-
-h1 {
-  font-size: 4em;
-  padding-top: 2em;
-  padding-bottom: 2em;
+  margin: 10% 0 15% 0;
 }
 
 h2 {
   padding-left: 2em;
   padding-right: 2em;
+  padding-bottom: 2em;
 }
 
 .container {
